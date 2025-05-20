@@ -1,2 +1,0 @@
-Merhaba bu bir dosya sıkıştırma denemesidir.
-Huffman algoritması çok eğlenceli!
